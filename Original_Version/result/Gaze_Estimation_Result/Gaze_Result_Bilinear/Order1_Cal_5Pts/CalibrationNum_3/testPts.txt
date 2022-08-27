@@ -1,0 +1,17 @@
+calibration size = 5
+cal , eye : 
+[280, 175] , [434, 197]
+[1400, 175] , [243, 178]
+[840, 525] , [331, 225]
+[280, 875] , [460, 279]
+[1400, 875] , [233, 280]
+anchor pts : 
+chessBoardSize = 3 X 3
+x_dist = 560
+y_dist = 350
+calInterAnchorPoints.size = 4
+
+[1, 0]
+[0, 1]
+[2, 1]
+[1, 2]

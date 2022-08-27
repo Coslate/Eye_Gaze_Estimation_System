@@ -1,0 +1,1935 @@
+
+
+*******************************************************************************
+Wed Sep 17 16:33:24 2014
+
+
+FIT:    data read from 'med_down_15\ellipseArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.89515e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 30856
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.38231e+009
+rel. change during last iteration : -4.01529e-013
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3299.14
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.08843e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 27418.1          +/- 291.6        (1.064%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:37:27 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.2918e+011       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : -6.10135e-011
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:38:53 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : -1.65415e-016
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:39:53 2014
+
+
+FIT:    data read from 'med_down_15\convexHullArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.08627e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 7.03845e+008
+rel. change during last iteration : -1.57137e-011
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2354.16
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.54209e+006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 30856            +/- 208.1        (0.6744%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:40:43 2014
+
+
+FIT:    data read from 'med_down_15\convexHullArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.03845e+008      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 30856
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 7.03845e+008
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2354.16
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.54209e+006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 30856            +/- 208.1        (0.6744%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:41:37 2014
+
+
+FIT:    data read from 'med_down_15\ellipseArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.89515e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 30856
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.38231e+009
+rel. change during last iteration : -4.01529e-013
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3299.14
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.08843e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 27418.1          +/- 291.6        (1.064%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:46:37 2014
+
+
+FIT:    data read from 'med_down_15\ellipseArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.38231e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 27418.1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.38231e+009
+rel. change during last iteration : -3.44956e-016
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3299.14
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.08843e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 27418.1          +/- 291.6        (1.064%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:48:45 2014
+
+
+FIT:    data read from 'med_down_15\ellipseArea.txt'
+        format = z
+        #datapoints = 128
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.75996e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.38231e+009
+rel. change during last iteration : -2.55268e-011
+
+degrees of freedom    (FIT_NDF)                        : 127
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3299.14
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.08843e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 27418.1          +/- 291.6        (1.064%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:49:19 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.02982e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 27418.1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : -1.0088e-011
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:49:41 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : -1.65415e-016
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:50:14 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : -3.30831e-016
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:50:59 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:51:24 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:51:35 2014
+
+
+FIT:    data read from 'med_down_16\convexHullArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.88266e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 2.88266e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5239.65
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.74539e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46205.8          +/- 508.9        (1.101%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:52:42 2014
+
+
+FIT:    data read from 'med_down_16\ellipseArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.8651e+009       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46205.8
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 2.83636e+009
+rel. change during last iteration : -8.85133e-007
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5197.4
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7013e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46726.5          +/- 504.8        (1.08%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:53:11 2014
+
+
+FIT:    data read from 'med_down_16\ellipseArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.83636e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46726.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.83636e+009
+rel. change during last iteration : -8.06956e-015
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5197.4
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7013e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46726.5          +/- 504.8        (1.08%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:53:28 2014
+
+
+FIT:    data read from 'med_down_16\ellipseArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.83636e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46726.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.83636e+009
+rel. change during last iteration : -1.68116e-016
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5197.4
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7013e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46726.5          +/- 504.8        (1.08%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:53:36 2014
+
+
+FIT:    data read from 'med_down_16\ellipseArea.txt'
+        format = z
+        #datapoints = 106
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.83636e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46726.5
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 2.83636e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 5197.4
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.7013e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46726.5          +/- 504.8        (1.08%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:56:28 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 9.26908e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46726.5
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : -1.41896e-013
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:56:45 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.29366e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:56:57 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.29366e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:57:17 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.29366e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+The maximum lambda = 1.000000e+020 was exceeded. Fit stopped.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:58:29 2014
+
+
+FIT:    data read from 'med_down_18\ellipseArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.71603e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.00913e+010
+rel. change during last iteration : -8.08018e-013
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 10306.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.06224e+008
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 34941.1          +/- 1052         (3.01%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:59:07 2014
+
+
+FIT:    data read from 'med_down_19\ellipseArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.00943e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 34941.1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.22182e+009
+rel. change during last iteration : -3.02186e-012
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3151.74
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.93346e+006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43400            +/- 283          (0.6522%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 22:59:27 2014
+
+
+FIT:    data read from 'med_down_19\ellipseArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.22182e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43400
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.22182e+009
+rel. change during last iteration : -1.95135e-016
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3151.74
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.93346e+006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43400            +/- 283          (0.6522%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:00:09 2014
+
+
+FIT:    data read from 'med_down_19\convexHullArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.39221e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43400
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.37424e+009
+rel. change during last iteration : -6.11211e-013
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3342.55
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11727e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 47434.1          +/- 300.2        (0.6328%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:01:56 2014
+
+
+FIT:    data read from 'med_down_19\convexHullArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37424e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 47434.1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.37424e+009
+rel. change during last iteration : -5.20475e-016
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3342.55
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11727e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 47434.1          +/- 300.2        (0.6328%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:03:10 2014
+
+
+FIT:    data read from 'med_down_18\ellipseArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.50744e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 47434.1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.00913e+010
+rel. change during last iteration : -1.7113e-012
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 10306.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.06224e+008
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 34941.1          +/- 1052         (3.01%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:03:23 2014
+
+
+FIT:    data read from 'med_down_18\ellipseArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.00913e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 34941.1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.00913e+010
+rel. change during last iteration : -3.7802e-016
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 10306.5
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.06224e+008
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 34941.1          +/- 1052         (3.01%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:03:49 2014
+
+
+FIT:    data read from 'med_down_18\convexHullArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.91443e+010      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 34941.1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 5.67655e+009
+rel. change during last iteration : -2.73525e-012
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7730.02
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.97531e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46785.5          +/- 788.9        (1.686%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:04:00 2014
+
+
+FIT:    data read from 'med_down_18\convexHullArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.67655e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46785.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 5.67655e+009
+rel. change during last iteration : -1.68003e-016
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7730.02
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.97531e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46785.5          +/- 788.9        (1.686%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:04:43 2014
+
+
+FIT:    data read from 'med_down_19\convexHullArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.42641e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46785.5
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 1.37424e+009
+rel. change during last iteration : -2.42958e-006
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3342.55
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11727e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 47434.1          +/- 300.2        (0.6328%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:04:52 2014
+
+
+FIT:    data read from 'med_down_19\convexHullArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.37424e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 47434.1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 1.37424e+009
+rel. change during last iteration : -1.57877e-014
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3342.55
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11727e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 47434.1          +/- 300.2        (0.6328%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:05:16 2014
+
+
+FIT:    data read from 'med_down_19\ellipseArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.23979e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 47434.1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.22182e+009
+rel. change during last iteration : -6.87069e-013
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3151.74
+variance of residuals (reduced chisquare) = WSSR/ndf   : 9.93346e+006
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43400            +/- 283          (0.6522%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:05:51 2014
+
+
+FIT:    data read from 'med_down_19\convexHullArea.txt'
+        format = z
+        #datapoints = 124
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.39221e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43400
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.37424e+009
+rel. change during last iteration : -6.11211e-013
+
+degrees of freedom    (FIT_NDF)                        : 123
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3342.55
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.11727e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 47434.1          +/- 300.2        (0.6328%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:06:18 2014
+
+
+FIT:    data read from 'med_down_18\convexHullArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.71694e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 47434.1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 5.67655e+009
+rel. change during last iteration : -7.56196e-007
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7730.02
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.97531e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46785.5          +/- 788.9        (1.686%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:06:35 2014
+
+
+FIT:    data read from 'med_down_18\convexHullArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.67655e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46785.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 5.67655e+009
+rel. change during last iteration : -8.06412e-015
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7730.02
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.97531e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46785.5          +/- 788.9        (1.686%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:08:36 2014
+
+
+FIT:    data read from 'med_down_18\convexHullArea.txt'
+        format = z
+        #datapoints = 96
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 5.67655e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46785.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 5.67655e+009
+rel. change during last iteration : -3.36005e-016
+
+degrees of freedom    (FIT_NDF)                        : 95
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 7730.02
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.97531e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46785.5          +/- 788.9        (1.686%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:09:52 2014
+
+
+FIT:    data read from 'med_down_17\convexHullArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.12978e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46785.5
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 4.08877e+009
+rel. change during last iteration : -1.08819e-006
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6595.27
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.34976e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46128.5          +/- 676.7        (1.467%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:10:04 2014
+
+
+FIT:    data read from 'med_down_17\convexHullArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.08877e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46128.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 4.08877e+009
+rel. change during last iteration : -1.17787e-014
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6595.27
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.34976e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46128.5          +/- 676.7        (1.467%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:10:55 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.93895e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46128.5
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : -8.44244e-006
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:12:04 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.29366e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : -9.38305e-014
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:13:21 2014
+
+
+FIT:    data read from 'med_down_17\convexHullArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.73406e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 43522.2
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 4.08877e+009
+rel. change during last iteration : -1.89743e-013
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6595.27
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.34976e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46128.5          +/- 676.7        (1.467%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:13:31 2014
+
+
+FIT:    data read from 'med_down_17\convexHullArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.08877e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46128.5
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 4.08877e+009
+rel. change during last iteration : -6.99727e-016
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6595.27
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.34976e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 46128.5          +/- 676.7        (1.467%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 
+
+
+*******************************************************************************
+Wed Sep 17 23:14:03 2014
+
+
+FIT:    data read from 'med_down_17\ellipseArea.txt'
+        format = z
+        #datapoints = 95
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 8.93895e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1
+
+initial set of free parameter values
+
+mean_y          = 46128.5
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 8.29366e+009
+rel. change during last iteration : -8.44244e-006
+
+degrees of freedom    (FIT_NDF)                        : 94
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 9393.11
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82304e+007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+mean_y          = 43522.2          +/- 963.7        (2.214%)
+
+
+correlation matrix of the fit parameters:
+
+               mean_y 
+mean_y          1.000 

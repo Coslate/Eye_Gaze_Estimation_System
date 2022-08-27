@@ -1,0 +1,5 @@
+calibration size = 0
+cal , eye : 
+chessBoardSize = 4 X 4
+x_dist = 420
+y_dist = 262

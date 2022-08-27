@@ -1,0 +1,16 @@
+orderOpt = 2
+numberOfVar = 6
+
+mapping_paramOptX = 
+-1.92262 -0.374 0.286766 0.0767794 1.04654 -0.0625654 
+mapping_paramOptY = 
+-0.17903 2.2227 0.121738 0.601188 0.914879 -0.0359102 
+EyePtsTransformMat_Opt = 
+0.00348104 0 -1.12351 
+0 0.00348104 -0.81848 
+0 0 1 
+
+ScenePtsTransformMat_Opt = 
+0.00135651 0 -1.13947 
+0 0.00135651 -0.71081 
+0 0 1 

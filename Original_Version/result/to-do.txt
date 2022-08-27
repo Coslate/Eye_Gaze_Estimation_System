@@ -1,0 +1,3 @@
+1. Change the output of the program to this folder.
+2. Integrate Matlab *.m code into an automatic script.(used to generate error-Gaussian chart)
+3. Gaze_Estimation_Result contains the original output of gaze estimation results. It should also contain all the output of gaze estimation in the future.

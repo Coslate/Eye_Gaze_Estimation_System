@@ -1,0 +1,5 @@
+
+
+
+點選project→右鍵→property→Configuration Properties→Configuration Manager
+→Active solution platform→New→Type or select the new platform→x64

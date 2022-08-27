@@ -1,0 +1,15 @@
+>> time_white_balance_serial     = 0.00419192
+>> time_white_balance_parallel   = 0.0018787
+time_cvt_color              = 7.37844e-05
+time_hist_equal             = 0.000259367
+time_iris_model_handling    = 0.00525884
+>> time_eye_position_detection_high_freq_removal          = 0.0014734
+>> time_eye_position_detection_coarse_iris_location       = 0.00136618
+>> time_eye_position_detection_eyelid_feature_detection   = 0.0087276
+>> time_eye_position_detection_parabola_model_fitting     = 0.00480451
+>> time_eye_position_detection_limbus_feature_detection   = 0.00174451
+>> time_eye_position_detection_center_calculation         = 0.00165027
+>> time_eye_position_detection_refresh_iris_ROI_region    = 0.00669118
+=============================
+frame_number = 106
+average fps = 31.2904

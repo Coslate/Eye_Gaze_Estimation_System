@@ -1,0 +1,19 @@
+getSlicingMap = 1
+calibrationMethod = 3
+calibration size = 5
+cal , eye : 
+[280, 175] , [417, 156]
+[1400, 175] , [227, 161]
+[840, 525] , [316, 165]
+[280, 875] , [394, 231]
+[1400, 875] , [199, 221]
+anchor pts : 
+calInterAnchorPoints.size = 4
+
+[1, 0]
+[0, 1]
+[2, 1]
+[1, 2]
+chessBoardSize = 3 X 3
+x_dist = 560
+y_dist = 350

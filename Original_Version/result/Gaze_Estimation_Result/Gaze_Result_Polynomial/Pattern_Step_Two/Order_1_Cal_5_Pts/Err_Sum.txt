@@ -1,0 +1,13 @@
+CalibrationNum_0 , err = 3.10057 ( degree ) 
+CalibrationNum_1 , err = 1.85529 ( degree ) 
+CalibrationNum_2 , err = 2.03225 ( degree ) 
+CalibrationNum_3 , err = 2.4451 ( degree ) 
+CalibrationNum_4 , err = 2.53995 ( degree ) 
+CalibrationNum_5 , err = 2.01334 ( degree ) 
+CalibrationNum_6 , err = 3.59519 ( degree ) 
+CalibrationNum_7 , err = 3.22015 ( degree ) 
+CalibrationNum_8 , err = 3.56357 ( degree ) 
+CalibrationNum_9 , err = 1.89649 ( degree ) 
+=============================================================
+meanOfErr = 2.62619 ( degree ) 
+std_dev = 0.65504

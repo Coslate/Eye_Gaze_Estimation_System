@@ -1,0 +1,6 @@
+1. 'txt' are input from Camera Calibration. If one use real camera, he should do Camera Calibration to attain correct parameters for eye and scene cameras lens.
+2. 'testImage' seems un-used.
+3. 'Test_Mean_Variance_Data' is for tmp output when running the whole code with Visual Studio C++, the code should be modified to output result in ../result.
+4. The original 'Result' folder containing gaze estimation results is moved and renamed as '../result/Gaze_Estimation_Result'. The code should be modified to automatically output gaze estimation results in '../result/Gaze_Estimation_Result'.
+5. The 'lib_setting' contains all the .props that are needed to be included when using Visual Studio C++ project(.sln)to run the whole code. The 'TBB.props' and 'Opencv410_TBB_CUDA_Release_x64.props' are needed.
+6. See_Variance_Gaussian2D.m is used to generate error-Gaussian image like '../result/pp_test_med_down_15/centerEstimation_convexHullFineCenter_vfinal.jpg' taking input '../result/pp_test_med_down_15/centerEstimation_convexHullFineCenter_vfinal.txt'. It should be integrated into a script that can be automatically run with the main code.

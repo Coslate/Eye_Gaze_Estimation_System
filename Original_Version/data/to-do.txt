@@ -1,0 +1,2 @@
+1. These eye vedio frames are tmp data input for focusing on improving eye center detection. If one want to use eye gaze estimation, the camera input streams(eye+scene) should be opened rather than feeding in eye vedio frames.
+2. Add an option to choose between exp(only use eye vedio frames) and act(use real camera input frames) modes.

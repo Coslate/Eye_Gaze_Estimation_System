@@ -1,0 +1,67 @@
+//How to build opencv with TBB
+//You can also see https://www.youtube.com/watch?v=XeBhwbRoKvk
+
+
+step 1 
+download opencv
+
+step 2
+download CMake
+
+step 3
+download TBB library
+https://www.threadingbuildingblocks.org/download
+
+-> Stable Release -> Windows* OS
+****The TBB library needs to place in the same folder with opencv************
+
+step4
+open CMake
+
+"Where is the source code" -> place source folder in the opencv file you just download.
+"Where to build the binaries" -> open a new folder in source named "build" and place in it.
+
+put "Configure"
+Select VS 2012 x64(能建成x64就建x64，效能比x86快一倍)
+
+step5
+
+Interface:
+UseTBB   NOT
+
+In the red region of CMake
+select WITH_TBB
+
+press "Configrue"
+
+TBB_INCLUDE_DIR not found in the first line(red)
+select "->tbb42_20140601oss(the TBB library you just downloaded)->include"
+
+"Configure" again
+
+check Interface:
+UseTBB   YES
+
+
+step6
+Generate
+
+
+Step7 
+open the OpenCV.sln in "opencv\src\build" 
+Build->Build Soluton
+
+Step8
+Back to EyeGazeTrackingSystem_vf vs2012 
+Property Manager -> Release|x64 -> 右鍵 Add New Property Sheet
+C/C++ Additional Include Directories: 設定 Include Directories 到opencv 的 source 中的 include
+Linker General -> Additional Library Directories: 設定build 好的 lib 位置(Release版)
+Linker Input: Additional Dependencies 放入lib中的所有檔案名稱(.lib)
+環境變數添加Path到build好的bin資料夾
+
+
+
+
+
+
+
